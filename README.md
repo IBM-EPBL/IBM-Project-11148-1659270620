@@ -11,3 +11,5 @@ formally spoken languages or gestures into audio for blind people.  Thus, conver
 by an algorithm or a model can help bridge the gap between people with hearing or speaking impairment and the rest of the 
 world.
 
+We are using mediapipe hollsitic library to fetch the body and facial posture which will be used to train our model.
+The model is trained on a large dataset which almost consists of 400 different words.
