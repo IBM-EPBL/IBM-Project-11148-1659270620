@@ -13,3 +13,13 @@ world.
 
 We are using mediapipe hollsitic library to fetch the body and facial posture which will be used to train our model.
 The model is trained on a large dataset which almost consists of 400 different words.
+
+Video Link - https://drive.google.com/file/d/1YM_p-FXoprWMP7EKg_IvkvsWXa-xqCum/view?usp=sharing
+
+Report Link - https://drive.google.com/file/d/13yi73xwHASiFSwSqvYWR9mq7SoGREHEp/view?usp=share_link
+
+UAT Report - https://drive.google.com/file/d/1hrZZPCrlBsB9QHr9cvhIW_VNEs65yB-y/view?usp=share_link
+
+Performance Test Report - https://drive.google.com/file/d/10XcM8gEGnqHj9l2G12OMmUWE4IY9H7Kh/view?usp=share_link
+
+Flask - https://drive.google.com/file/d/1rdDla0NE5p_khmlq0jJJxMERoQyu_06t/view?usp=sharing
